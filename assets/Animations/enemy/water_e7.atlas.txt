@@ -1,0 +1,97 @@
+
+water_e7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 354, 365
+  size: 136, 126
+  orig: 136, 126
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 249, 14
+  size: 81, 35
+  orig: 81, 35
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 319, 230
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 354, 268
+  size: 95, 151
+  orig: 95, 151
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 161, 79
+  size: 99, 141
+  orig: 99, 141
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 139, 297
+  size: 213, 194
+  orig: 213, 194
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 233, 222
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 161, 3
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 262, 135
+  size: 85, 61
+  orig: 85, 61
+  offset: 0, 0
+  index: -1
+tai_L
+  rotate: false
+  xy: 262, 51
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+tai_R
+  rotate: false
+  xy: 139, 222
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+vk
+  rotate: false
+  xy: 2, 218
+  size: 135, 273
+  orig: 135, 273
+  offset: 0, 0
+  index: -1

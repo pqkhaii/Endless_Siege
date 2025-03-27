@@ -1,0 +1,48 @@
+
+devil_e9.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 316, 2
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+cloack_L
+  rotate: false
+  xy: 168, 82
+  size: 146, 154
+  orig: 146, 154
+  offset: 0, 0
+  index: -1
+cloack_R
+  rotate: false
+  xy: 316, 104
+  size: 127, 132
+  orig: 127, 132
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 26
+  size: 164, 210
+  orig: 164, 210
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 445, 188
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 445, 188
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1

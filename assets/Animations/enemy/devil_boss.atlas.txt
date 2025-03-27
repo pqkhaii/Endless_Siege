@@ -1,0 +1,76 @@
+
+devil_boss.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 550, 117
+  size: 252, 115
+  orig: 252, 115
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 345, 234
+  size: 260, 258
+  orig: 260, 258
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 316, 49
+  size: 232, 183
+  orig: 232, 183
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 2, 88
+  size: 144, 312
+  orig: 144, 312
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 2, 234
+  size: 341, 258
+  orig: 341, 258
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 2, 2
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 804, 148
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 607, 234
+  size: 355, 57
+  orig: 355, 57
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 607, 293
+  size: 239, 199
+  orig: 239, 199
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: true
+  xy: 848, 299
+  size: 193, 164
+  orig: 193, 164
+  offset: 0, 0
+  index: -1

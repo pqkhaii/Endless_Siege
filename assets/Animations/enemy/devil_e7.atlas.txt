@@ -1,0 +1,34 @@
+
+devil_e7.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 68
+  size: 173, 158
+  orig: 173, 158
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 177, 97
+  size: 102, 129
+  orig: 102, 129
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 281, 97
+  size: 102, 129
+  orig: 102, 129
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 2
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1

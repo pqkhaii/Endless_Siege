@@ -1,0 +1,69 @@
+
+devil_e3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 221
+  size: 234, 142
+  orig: 234, 142
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 2, 2
+  size: 118, 67
+  orig: 118, 67
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 71
+  size: 147, 148
+  orig: 147, 148
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 365
+  size: 258, 120
+  orig: 258, 120
+  offset: 0, 0
+  index: -1
+ham
+  rotate: false
+  xy: 262, 382
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+leg_L_s
+  rotate: false
+  xy: 373, 389
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+leg_L_t
+  rotate: false
+  xy: 151, 123
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+leg_R_s
+  rotate: true
+  xy: 151, 42
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+leg_R_t
+  rotate: true
+  xy: 151, 42
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1

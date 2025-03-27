@@ -1,0 +1,20 @@
+
+jungle_e3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 99
+  size: 182, 129
+  orig: 182, 129
+  offset: 0, 0
+  index: -1

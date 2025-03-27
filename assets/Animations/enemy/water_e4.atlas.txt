@@ -1,0 +1,97 @@
+
+water_e4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 119
+  size: 168, 110
+  orig: 168, 110
+  offset: 0, 0
+  index: -1
+hand_L_01
+  rotate: false
+  xy: 239, 123
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+hand_L_02
+  rotate: true
+  xy: 125, 67
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+hand_L_03
+  rotate: false
+  xy: 2, 9
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+hand_L_04
+  rotate: false
+  xy: 74, 43
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+hand_R_01
+  rotate: false
+  xy: 287, 138
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+hand_R_02
+  rotate: false
+  xy: 74, 2
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+hand_R_03
+  rotate: false
+  xy: 172, 128
+  size: 65, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+hand_R_04
+  rotate: false
+  xy: 239, 160
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+leg_L_01
+  rotate: false
+  xy: 287, 173
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+leg_L_02
+  rotate: false
+  xy: 395, 178
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+leg_R_01
+  rotate: false
+  xy: 445, 178
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+leg_R_02
+  rotate: false
+  xy: 341, 173
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1

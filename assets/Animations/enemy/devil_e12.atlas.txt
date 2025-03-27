@@ -1,0 +1,55 @@
+
+devil_e12.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: true
+  xy: 2, 2
+  size: 120, 123
+  orig: 120, 123
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 124
+  size: 144, 129
+  orig: 144, 129
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 321, 180
+  size: 159, 73
+  orig: 159, 73
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 148, 55
+  size: 126, 97
+  orig: 126, 97
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 148, 154
+  size: 171, 99
+  orig: 171, 99
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 276, 69
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 276, 69
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1

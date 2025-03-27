@@ -1,0 +1,48 @@
+
+water_e8.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 185, 144
+  size: 115, 107
+  orig: 115, 107
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 100
+  size: 181, 151
+  orig: 181, 151
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 2, 2
+  size: 69, 96
+  orig: 69, 96
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 302, 169
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 185, 100
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 73, 52
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+water_e3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 77
+  size: 162, 165
+  orig: 162, 165
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 2, 2
+  size: 125, 73
+  orig: 125, 73
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: true
+  xy: 166, 126
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+jungle_e4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 149, 63
+  size: 179, 149
+  orig: 179, 149
+  offset: 0, 0
+  index: -1
+face_open
+  rotate: true
+  xy: 2, 56
+  size: 186, 145
+  orig: 186, 145
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 300, 2
+  size: 96, 163
+  orig: 96, 163
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 300, 100
+  size: 183, 142
+  orig: 183, 142
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 38, 18
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 14
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1

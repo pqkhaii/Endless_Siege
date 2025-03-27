@@ -1,0 +1,55 @@
+
+devil_e4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 260
+  size: 348, 147
+  orig: 348, 147
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 2, 2
+  size: 77, 143
+  orig: 77, 143
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 204, 181
+  size: 77, 143
+  orig: 77, 143
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 81, 12
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 147, 12
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 2, 147
+  size: 200, 111
+  orig: 200, 111
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: false
+  xy: 352, 312
+  size: 141, 95
+  orig: 141, 95
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+devil_e14.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 214, 323
+  size: 219, 187
+  orig: 219, 187
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 256
+  size: 210, 254
+  orig: 210, 254
+  offset: 0, 0
+  index: -1
+face_01
+  rotate: false
+  xy: 376, 215
+  size: 118, 106
+  orig: 118, 106
+  offset: 0, 0
+  index: -1
+gay
+  rotate: false
+  xy: 2, 2
+  size: 188, 252
+  orig: 188, 252
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 214, 221
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 192, 82
+  size: 148, 137
+  orig: 148, 137
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 192, 10
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 435, 440
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+jungle_e7.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 119
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 132, 110
+  size: 139, 82
+  orig: 139, 82
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 2, 48
+  size: 119, 69
+  orig: 119, 69
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 2, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 2, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+devil_e13.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 89
+  size: 169, 163
+  orig: 169, 163
+  offset: 0, 0
+  index: -1
+ham
+  rotate: false
+  xy: 310, 203
+  size: 141, 49
+  orig: 141, 49
+  offset: 0, 0
+  index: -1
+r_L
+  rotate: false
+  xy: 173, 106
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+r_R
+  rotate: false
+  xy: 453, 204
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 2, 2
+  size: 135, 85
+  orig: 135, 85
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: false
+  xy: 173, 167
+  size: 135, 85
+  orig: 135, 85
+  offset: 0, 0
+  index: -1

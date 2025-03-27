@@ -1,0 +1,90 @@
+
+water_boss.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 238, 340
+  size: 162, 157
+  orig: 162, 157
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 162, 183
+  size: 142, 117
+  orig: 142, 117
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 281, 241
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 2, 155
+  size: 158, 170
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 402, 346
+  size: 98, 151
+  orig: 98, 151
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 2, 2
+  size: 114, 151
+  orig: 114, 151
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 261, 115
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 183, 47
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 118, 21
+  size: 132, 63
+  orig: 132, 63
+  offset: 0, 0
+  index: -1
+tai_L
+  rotate: true
+  xy: 281, 166
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+tai_R
+  rotate: false
+  xy: 183, 101
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+vk
+  rotate: false
+  xy: 2, 327
+  size: 234, 170
+  orig: 234, 170
+  offset: 0, 0
+  index: -1

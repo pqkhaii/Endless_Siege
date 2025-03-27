@@ -1,0 +1,76 @@
+
+jungle_e5.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 132
+  size: 113, 111
+  orig: 113, 111
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 40
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+leg_L_01
+  rotate: true
+  xy: 85, 81
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+leg_L_02
+  rotate: false
+  xy: 117, 165
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+leg_L_03
+  rotate: true
+  xy: 85, 30
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+leg_L_04
+  rotate: true
+  xy: 2, 2
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+leg_R_01
+  rotate: false
+  xy: 117, 134
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+leg_R_02
+  rotate: false
+  xy: 156, 173
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+leg_R_03
+  rotate: true
+  xy: 120, 81
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+leg_R_04
+  rotate: false
+  xy: 192, 176
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1

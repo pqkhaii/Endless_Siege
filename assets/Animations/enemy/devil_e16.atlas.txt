@@ -1,0 +1,62 @@
+
+devil_e16.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 186, 115
+  size: 133, 129
+  orig: 133, 129
+  offset: 0, 0
+  index: -1
+bodyy
+  rotate: false
+  xy: 321, 138
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 60
+  size: 182, 184
+  orig: 182, 184
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 414, 171
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 186, 43
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 272, 62
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 272, 62
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+vong
+  rotate: true
+  xy: 2, 2
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1

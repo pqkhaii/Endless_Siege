@@ -1,0 +1,76 @@
+
+jungle_e8.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 57
+  size: 233, 197
+  orig: 233, 197
+  offset: 0, 0
+  index: -1
+hand_L_01
+  rotate: false
+  xy: 380, 116
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+hand_R_01
+  rotate: false
+  xy: 380, 116
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+hand_L_02
+  rotate: false
+  xy: 42, 25
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+hand_R_02
+  rotate: false
+  xy: 42, 25
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+hand_L_03
+  rotate: false
+  xy: 330, 107
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 237, 80
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+hand_R_03
+  rotate: false
+  xy: 2, 2
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+la
+  rotate: false
+  xy: 442, 164
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 237, 154
+  size: 203, 100
+  orig: 203, 100
+  offset: 0, 0
+  index: -1

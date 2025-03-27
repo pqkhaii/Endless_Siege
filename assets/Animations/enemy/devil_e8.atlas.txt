@@ -1,0 +1,104 @@
+
+devil_e8.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 5
+  rotate: false
+  xy: 730, 330
+  size: 185, 167
+  orig: 185, 167
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 354, 146
+  size: 145, 175
+  orig: 145, 175
+  offset: 0, 0
+  index: -1
+cloak_01
+  rotate: true
+  xy: 137, 167
+  size: 116, 215
+  orig: 116, 215
+  offset: 0, 0
+  index: -1
+cloak_02
+  rotate: false
+  xy: 196, 24
+  size: 147, 141
+  orig: 147, 141
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 542, 308
+  size: 186, 189
+  orig: 186, 189
+  offset: 0, 0
+  index: -1
+gay
+  rotate: false
+  xy: 2, 117
+  size: 133, 380
+  orig: 133, 380
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 137, 285
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 347, 293
+  size: 193, 204
+  orig: 193, 204
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 2, 2
+  size: 113, 192
+  orig: 113, 192
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 966, 448
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 966, 388
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+long_01
+  rotate: false
+  xy: 345, 44
+  size: 32, 100
+  orig: 32, 100
+  offset: 0, 0
+  index: -1
+long_02
+  rotate: false
+  xy: 379, 48
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+vong
+  rotate: false
+  xy: 917, 381
+  size: 47, 116
+  orig: 47, 116
+  offset: 0, 0
+  index: -1

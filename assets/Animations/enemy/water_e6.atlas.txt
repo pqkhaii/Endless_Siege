@@ -1,0 +1,90 @@
+
+water_e6.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 163, 91
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 212
+  size: 238, 175
+  orig: 238, 175
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 283, 320
+  size: 116, 150
+  orig: 116, 150
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 283, 236
+  size: 82, 150
+  orig: 82, 150
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 232, 472
+  size: 172, 127
+  orig: 172, 127
+  offset: 0, 0
+  index: -1
+flash
+  rotate: true
+  xy: 406, 473
+  size: 126, 78
+  orig: 126, 78
+  offset: 0, 0
+  index: -1
+gay
+  rotate: true
+  xy: 2, 452
+  size: 262, 228
+  orig: 262, 228
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 179, 226
+  size: 102, 224
+  orig: 102, 224
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 2, 2
+  size: 159, 208
+  orig: 159, 208
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 247, 601
+  size: 208, 135
+  orig: 208, 135
+  offset: 0, 0
+  index: -1
+wings_L
+  rotate: false
+  xy: 2, 716
+  size: 243, 259
+  orig: 243, 259
+  offset: 0, 0
+  index: -1
+wings_R
+  rotate: false
+  xy: 247, 738
+  size: 253, 237
+  orig: 253, 237
+  offset: 0, 0
+  index: -1

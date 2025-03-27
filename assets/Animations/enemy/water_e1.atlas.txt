@@ -1,0 +1,27 @@
+
+water_e1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 58
+  size: 272, 150
+  orig: 272, 150
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 276, 103
+  size: 157, 105
+  orig: 157, 105
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 2
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1

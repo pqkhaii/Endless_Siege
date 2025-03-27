@@ -1,0 +1,76 @@
+
+water_e5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 250
+  size: 233, 235
+  orig: 233, 235
+  offset: 0, 0
+  index: -1
+hand_L_01
+  rotate: false
+  xy: 153, 125
+  size: 100, 123
+  orig: 100, 123
+  offset: 0, 0
+  index: -1
+hand_L_02
+  rotate: false
+  xy: 340, 355
+  size: 99, 130
+  orig: 99, 130
+  offset: 0, 0
+  index: -1
+hand_L_03
+  rotate: false
+  xy: 441, 407
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+hand_R_01
+  rotate: false
+  xy: 237, 354
+  size: 101, 131
+  orig: 101, 131
+  offset: 0, 0
+  index: -1
+hand_R_02
+  rotate: false
+  xy: 2, 2
+  size: 149, 246
+  orig: 149, 246
+  offset: 0, 0
+  index: -1
+leg_L_01
+  rotate: false
+  xy: 153, 41
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+leg_L_02
+  rotate: false
+  xy: 237, 270
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+leg_R_01
+  rotate: false
+  xy: 255, 186
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+leg_R_02
+  rotate: false
+  xy: 255, 102
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1

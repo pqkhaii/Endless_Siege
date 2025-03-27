@@ -1,0 +1,62 @@
+
+devil_e10.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 196, 179
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+cloack
+  rotate: false
+  xy: 2, 328
+  size: 249, 174
+  orig: 249, 174
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 253, 323
+  size: 212, 179
+  orig: 212, 179
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 2, 2
+  size: 112, 220
+  orig: 112, 220
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 2, 116
+  size: 192, 210
+  orig: 192, 210
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 224, 12
+  size: 65, 102
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 196, 116
+  size: 61, 109
+  orig: 61, 109
+  offset: 0, 0
+  index: -1
+sip
+  rotate: false
+  xy: 338, 237
+  size: 111, 84
+  orig: 111, 84
+  offset: 0, 0
+  index: -1

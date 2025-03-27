@@ -1,0 +1,76 @@
+
+devil_e11.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leg_L
+  rotate: false
+  xy: 122, 2
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 162, 149
+  size: 103, 96
+  orig: 103, 96
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 267, 217
+  size: 127, 28
+  orig: 127, 28
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 352, 145
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 251, 89
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 93
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 162, 89
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 267, 146
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+knife
+  rotate: true
+  xy: 2, 6
+  size: 85, 118
+  orig: 85, 118
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 122, 44
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
