@@ -53,13 +53,13 @@ export class BulletController extends Component {
         if(GameModel.Instance.gamePause) return;
 
         if (!this.target || !this.target.isValid) {
-            this.explode();
+            BulletPool.Instance.recycleBullet(this.node);
             return;
         }
 
         // Kiểm tra nếu enemy đã đi ra khỏi range của turret
         if (Vec3.distance(this.turretPosition, this.target.position) > this.maxDistance) {
-            this.explode();
+            BulletPool.Instance.recycleBullet(this.node);
             return;
         }
 
@@ -78,21 +78,18 @@ export class BulletController extends Component {
 
         // Kiểm tra nếu đạn đã di chuyển quá `maxDistance`
         if (Vec3.distance(this.turretPosition, this.node.position) > this.maxDistance) {
-            this.explode();
+            BulletPool.Instance.recycleBullet(this.node);
         }
     }
 
-    private explode(): void {
-        // Hiệu ứng nổ (nếu có)
-        // this.showExplosionEffect(); // Nếu có hiệu ứng nổ thì gọi ở đây
-
-        // Thu hồi về BulletPool
+    private explode(enemy: Node): void {
+        BulletPool.Instance.spawnBulletHit(enemy)
         BulletPool.Instance.recycleBullet(this.node);
     }
 
     private onBeginContact (selfCollider: Collider2D, otherCollider: Collider2D, contact: IPhysics2DContact | null) {
         if(otherCollider.tag === 0){ //enemy tag 0
-            selfCollider.node.active = false;
+            this.explode(otherCollider.node);
             const enemyController = otherCollider.node.getComponent(EnemyController);
             
             enemyController.handleHp(this.bulletDamage);
